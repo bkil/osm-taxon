@@ -1,4 +1,4 @@
-# Slides for Scala.js intro
+# Slides for botany vs. OpenStreetMap
 
 You can view the presentation here:
 https://bkil.github.io/osm-taxon
